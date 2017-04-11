@@ -156,7 +156,7 @@ $(document).ready(function(){
 
 
   $(".background8").mouseover(function(){
-    $("body").css("background-color", "#eaeaea");
+    $("body").css("background-color", "#F5EDDE");
   });
 
   $(".background8").mouseout(function(){
@@ -164,8 +164,13 @@ $(document).ready(function(){
   });
 
 
+  $(".background9").mouseover(function(){
+    $("body").css("background-color", "#6B2F27");
+  });
 
-
+  $(".background9").mouseout(function(){
+    $("body").css("background-color", "#fdd9ca");
+  });
 
 });
 
