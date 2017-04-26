@@ -172,6 +172,24 @@ $(document).ready(function(){
     $("body").css("background-color", "#fdd9ca");
   });
 
+
+  $(".background10").mouseover(function(){
+    $("body").css("background-color", "#ffd3d3");
+  });
+
+  $(".background10").mouseout(function(){
+    $("body").css("background-color", "#fdd9ca");
+  });
+
+
+  $(".background11").mouseover(function(){
+    $("body").css("background-color", "#eacea2");
+  });
+
+  $(".background11").mouseout(function(){
+    $("body").css("background-color", "#fdd9ca");
+  });
+
 });
 
 

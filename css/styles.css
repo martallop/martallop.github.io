@@ -204,6 +204,18 @@ a:hover {
   overflow: hidden;
 }
 
+#project10-homepage-img {
+  background: url(../images/thumbnails/10.jpg) center center no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+#project11-homepage-img {
+  background: url(../images/thumbnails/11.jpg) center center no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
 .project-images {
   margin-top: 60px;
   margin-bottom: 175px;
